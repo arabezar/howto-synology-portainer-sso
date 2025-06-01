@@ -138,7 +138,7 @@
 
 ## Технологии
 
-- [Synology](https://www.synologuy.com/)    
+- [Synology](https://www.synology.com/)    
 - [Docker](https://www.docker.com/)
 - [Portainer](https://www.portainer.io/)
 - [OIDC](https://openidconnect.net/)
