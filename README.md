@@ -1,6 +1,6 @@
-# portainer
+# Portainer + SSO (HowTo)
 
-Данный проект, собственно, и не проект вовсе, а описание запуска Portainer в докере на Synology DSM 7, а также входа в него по SSO (Single Sign-On)
+Здесь описаны развёртывание и запуск Portainer в докере на Synology DSM 7 со входом по SSO (Single Sign-On)
 
 ## Начнём
 
@@ -145,4 +145,5 @@
 
 ## Вклад
 
-- Предложения и замечания категорически приветствуются [здесь](https://github.com/arabezar/portainer/discussions)
+- Предложения и замечания категорически приветствуются [здесь](https://github.com/arabezar/howto-synology-portainer-sso/discussions)
+
